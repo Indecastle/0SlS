@@ -1,0 +1,16 @@
+E:\Projects2\lab5_keylogger\bin\Debug\lab5_keylogger.exe.config
+E:\Projects2\lab5_keylogger\bin\Debug\lab5_keylogger.exe
+E:\Projects2\lab5_keylogger\bin\Debug\lab5_keylogger.pdb
+E:\Projects2\lab5_keylogger\obj\Debug\lab5_keylogger.csprojAssemblyReference.cache
+E:\Projects2\lab5_keylogger\obj\Debug\lab5_keylogger.Properties.Resources.resources
+E:\Projects2\lab5_keylogger\obj\Debug\lab5_keylogger.csproj.GenerateResource.cache
+E:\Projects2\lab5_keylogger\obj\Debug\lab5_keylogger.exe
+E:\Projects2\lab5_keylogger\obj\Debug\lab5_keylogger.pdb
+C:\Users\hpb0h\Documents\Project 2\lab5_keylogger\lab5_keylogger\bin\Debug\lab5_keylogger.exe.config
+C:\Users\hpb0h\Documents\Project 2\lab5_keylogger\lab5_keylogger\bin\Debug\lab5_keylogger.exe
+C:\Users\hpb0h\Documents\Project 2\lab5_keylogger\lab5_keylogger\bin\Debug\lab5_keylogger.pdb
+C:\Users\hpb0h\Documents\Project 2\lab5_keylogger\lab5_keylogger\obj\Debug\lab5_keylogger.csprojAssemblyReference.cache
+C:\Users\hpb0h\Documents\Project 2\lab5_keylogger\lab5_keylogger\obj\Debug\lab5_keylogger.Properties.Resources.resources
+C:\Users\hpb0h\Documents\Project 2\lab5_keylogger\lab5_keylogger\obj\Debug\lab5_keylogger.csproj.GenerateResource.cache
+C:\Users\hpb0h\Documents\Project 2\lab5_keylogger\lab5_keylogger\obj\Debug\lab5_keylogger.exe
+C:\Users\hpb0h\Documents\Project 2\lab5_keylogger\lab5_keylogger\obj\Debug\lab5_keylogger.pdb

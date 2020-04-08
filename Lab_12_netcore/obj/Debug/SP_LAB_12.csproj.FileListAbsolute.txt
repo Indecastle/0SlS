@@ -1,0 +1,17 @@
+E:\Projects2\SP_LAB_12\bin\Debug\SP_LAB_12.exe.config
+E:\Projects2\SP_LAB_12\bin\Debug\SP_LAB_12.exe
+E:\Projects2\SP_LAB_12\bin\Debug\SP_LAB_12.pdb
+E:\Projects2\SP_LAB_12\obj\Debug\SP_LAB_12.csprojAssemblyReference.cache
+E:\Projects2\SP_LAB_12\obj\Debug\SP_LAB_12.Form1.resources
+E:\Projects2\SP_LAB_12\obj\Debug\SP_LAB_12.Properties.Resources.resources
+E:\Projects2\SP_LAB_12\obj\Debug\SP_LAB_12.csproj.GenerateResource.cache
+E:\Projects2\SP_LAB_12\obj\Debug\SP_LAB_12.exe
+E:\Projects2\SP_LAB_12\obj\Debug\SP_LAB_12.pdb
+C:\Users\hpb0h\Documents\Project 2\SP_LAB_12\bin\Debug\SP_LAB_12.exe.config
+C:\Users\hpb0h\Documents\Project 2\SP_LAB_12\bin\Debug\SP_LAB_12.exe
+C:\Users\hpb0h\Documents\Project 2\SP_LAB_12\obj\Debug\SP_LAB_12.csprojAssemblyReference.cache
+C:\Users\hpb0h\Documents\Project 2\SP_LAB_12\obj\Debug\SP_LAB_12.Form1.resources
+C:\Users\hpb0h\Documents\Project 2\SP_LAB_12\obj\Debug\SP_LAB_12.Properties.Resources.resources
+C:\Users\hpb0h\Documents\Project 2\SP_LAB_12\obj\Debug\SP_LAB_12.csproj.GenerateResource.cache
+C:\Users\hpb0h\Documents\Project 2\SP_LAB_12\obj\Debug\SP_LAB_12.exe
+C:\Users\hpb0h\Documents\Project 2\SP_LAB_12\obj\Debug\SP_LAB_12.pdb
